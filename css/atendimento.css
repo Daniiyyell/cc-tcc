@@ -1,0 +1,8 @@
+.atendimento {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background: #000;
+  margin-bottom: 200px;
+  height: 550px;
+}
